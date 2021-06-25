@@ -1,0 +1,37 @@
+<!--
+  ~ Copyright (C) 2018 Google Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Ablay 201808</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hello, my name is Ablay.
+\n\nI love Rick Astley.
+\nHere are the lyrics for my favourite song from him.
+\n\nWe are no strangers to love.
+\nYou know the rules and so do I.
+\nA full commitments what I am thinking of.
+\nYou would not get this from any other guy.
+\n\nI just want to tell you how I am feeling.
+\nGotta make you understand.
+\n\nNever gonna give you up
+\nNever gonna let you down
+\nNever gonna run around and desert you
+\nNever gonna make you cry
+\nNever gonna say goodbye
+\nNever gonna tell a lie and hurt you
+    </string>
+</resources>
